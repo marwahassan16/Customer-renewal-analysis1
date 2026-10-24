@@ -1,0 +1,16 @@
+customer_id,plan_type,monthly_fee,months_as_customer,renewed,support_requests
+C001,Basic,15,3,0,4
+C002,Premium,35,18,1,1
+C003,Basic,15,7,0,5
+C004,Standard,25,12,1,2
+C005,Premium,35,24,1,0
+C006,Basic,15,2,0,3
+C007,Standard,25,9,1,2
+C008,Premium,35,15,1,1
+C009,Basic,15,5,0,6
+C010,Standard,25,20,1,1
+C011,Premium,35,30,1,0
+C012,Basic,15,4,0,4
+C013,Standard,25,11,1,2
+C014,Premium,35,16,1,1
+C015,Basic,15,8,0,3
